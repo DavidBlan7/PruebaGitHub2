@@ -1,6 +1,7 @@
+
 package Ejercicio1;
 
-asdadadasdasd
+diferente
 
 import java.io.BufferedWriter;
 import java.io.DataInputStream;
@@ -46,3 +47,4 @@ public class Prueba {
 	}
 
 }
+>>>>>>> e43ae7402019d1407fd93f518511cd7c034da6b6
