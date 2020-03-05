@@ -1,0 +1,24 @@
+caption {
+	font-weight: bold;
+	font-size: 2em;
+}
+table {
+	border: grey 2px solid;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+tr,td {
+	border: grey 2px solid;
+	border-collapse: collapse;
+}
+.verde{
+	color: green;
+}
+.rojo{
+	color: red;
+}
+.azul{
+	color: blue;
+}
+

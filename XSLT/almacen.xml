@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="almacen8.xsl"?>
+<almacen>
+	<producto id="p0001">
+		<nombre>SET DE LLAVES HEXÁGONAS</nombre>
+		<marca>SUCONEL</marca>
+		<modelo>8PK021N</modelo>
+		<cantidad>12</cantidad>
+		<precio moneda="euro">10.6</precio>
+		<ganancia>20</ganancia>
+	</producto>
+	<producto id="p0002">
+		<nombre>Llave para tubo de 8"</nombre>
+		<marca>ACCESA</marca>
+		<modelo>TR345</modelo>
+		<cantidad>5</cantidad>
+		<precio moneda="euro">20</precio>
+		<ganancia>15</ganancia>
+	</producto>
+	<producto id="p0003">
+		<nombre>Llave De Torque tw307</nombre>
+		<marca>Bollhoff</marca>
+		<modelo>tw307</modelo>
+		<cantidad>2</cantidad>
+		<precio moneda="euro">32</precio>
+		<ganancia>25</ganancia>
+	</producto>
+	<producto id="p0004">
+		<nombre>Juego de llaves India</nombre>
+		<marca>ACCESA</marca>
+		<modelo>rd345s</modelo>
+		<cantidad>7</cantidad>
+		<precio moneda="euro">31.5</precio>
+		<ganancia>15</ganancia>
+	</producto>
+	<producto id="p0005">
+		<nombre>SET LLAVES HEXÁGONAS</nombre>
+		<marca>PROSKIT</marca>
+		<modelo>8PK0221</modelo>
+		<cantidad>12</cantidad>
+		<precio moneda="euro">16.3</precio>
+		<ganancia>18</ganancia>
+	</producto>
+	<producto id="p0006">
+		<nombre>Llave Bristol</nombre>
+		<marca>Bollhoff</marca>
+		<modelo>57324</modelo>
+		<cantidad>4</cantidad>
+		<precio moneda="euro">34.05</precio>
+		<ganancia>7</ganancia>
+	</producto>
+	<producto id="p0006">
+		<nombre>Llave de expansión</nombre>
+		<marca>ACCESA</marca>
+		<modelo>1751</modelo>
+		<cantidad>12</cantidad>
+		<precio moneda="euro">38.65</precio>
+		<ganancia>16</ganancia>
+	</producto>
+	<producto id="p0007">
+		<nombre>Llave copa torx</nombre>
+		<marca>SUCONEL</marca>
+		<modelo>26590</modelo>
+		<cantidad>5</cantidad>
+		<precio moneda="euro">35.8</precio>
+		<ganancia>6</ganancia>
+	</producto>
+	<producto id="p0008">
+		<nombre>Llave de carraca</nombre>
+		<marca>PROSKIT</marca>
+		<modelo>R453W</modelo>
+		<cantidad>12</cantidad>
+		<precio moneda="euro">17.4</precio>
+		<ganancia>15</ganancia>
+	</producto>
+	<producto id="p0009">
+		<nombre>Llave de expansión</nombre>
+		<marca>PROSKIT</marca>
+		<modelo>TR123</modelo>
+		<cantidad>4</cantidad>
+		<precio moneda="euro">32.7</precio>
+		<ganancia>15</ganancia>
+	</producto>
+	<producto id="p0010">
+		<nombre>Llave de cadena</nombre>
+		<marca>ACCESA</marca>
+		<modelo>TR123</modelo>
+		<cantidad>16</cantidad>
+		<precio moneda="euro">43</precio>
+		<ganancia>21</ganancia>
+	</producto>
+	<producto id="p0011">
+		<nombre>Llave de carraca</nombre>
+		<marca>SUCONEL</marca>
+		<modelo>45123</modelo>
+		<cantidad>11</cantidad>
+		<precio moneda="euro">21.2</precio>
+		<ganancia>17</ganancia>
+	</producto>
+	<producto id="p0012">
+		<nombre>Kit llave y tuerca para pulidora</nombre>
+		<marca>Bollhoff</marca>
+		<modelo>BSER2</modelo>
+		<cantidad>3</cantidad>
+		<precio moneda="euro">46.9</precio>
+		<ganancia>12</ganancia>
+	</producto>
+	<producto id="p0013">
+		<nombre>Llaves mixtas de 3/8"</nombre>
+		<marca>SUCONEL</marca>
+		<modelo>23789</modelo>
+		<cantidad>6</cantidad>
+		<precio moneda="euro">53</precio>
+		<ganancia>14</ganancia>
+	</producto>
+	<producto id="p0014">
+		<nombre>Llaves mixtas de 3/8"</nombre>
+		<marca>PROSKIT</marca>
+		<modelo>RE321</modelo>
+		<cantidad>1</cantidad>
+		<precio moneda="euro">59</precio>
+		<ganancia>21</ganancia>
+	</producto>
+</almacen>
